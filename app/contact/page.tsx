@@ -61,11 +61,7 @@ const Contact = () => {
             <h1 className="text-black"> Visum</h1>
           </div>
           <div className="bg-gray-300 flex flex-row justify-center items-start border-2 border-black h-48 w-44 my-5 mx-12">
-            <h1 className="text-black"> Reisadvies</h1>
-          </div>
-          <div className="bg-gray-300 border-2 border-black h-48 w-44 my-5 mx-12">
-            <h1 className="text-black"> Andere vragen</h1>
-          </div> */}
+git          </div> */}
         </section>
       </main>
       <GetFooter />
