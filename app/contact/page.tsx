@@ -53,7 +53,7 @@ const Contact = () => {
             <h1 className="text-black"> Bagage</h1>
           </div>
         </section>git git 
-            <h1 className="text-black"> Andere vragen</h1>
+            <h1 claName="text-black"> Andere vragen</h1>
           </div> */}
         </section>
       </main>
