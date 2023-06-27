@@ -52,7 +52,8 @@ const Contact = () => {
           <div className="bg-gray-300 border-2 borde-black h-48 w-44 my-5 mx-12">
             <h1 className="text-black"> Bagage</h1>
           </div>
-        </section>git git 
+        </section>git git asdasdasdasdasdasfsd
+        sdafsdfsda
             <h1 claName="text-black"> Andere vragen</h1>
           </div> */}
         </section>
